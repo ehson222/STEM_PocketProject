@@ -14,13 +14,12 @@ Started thinking about college? are you indecisive with degree options? want to 
 
 ## The how's and why's
 
-Although the sound of achieving a degree in any of the STEM disciplines may sound appealing.  It does have a negative connotation surrounding the challenges you must overcome.  Soo much so that our project lead, Pritika was scolded for her name and background and told that she would never make it in STEM.
-
-SweetWifi works primarily through crowdsourced data, it's how Waze app works on your mobile phone.  After you login your credentials to your account, we will store your location and all wifi connections that you have access to (if it is a private connection, as long as you have logged in through the app, we will remember it for you).  Then through our online database (we would choose Amazon DynamoDB as Amazon would handle all the upkeep), we would automatically swap connections for you based on our algorithm.  The algorithm would look at our database for a list of past changes in router strength, the time of day the strength is at it's worst and for how long, current strength of nearest routers and then give each router a score.  It's main priority is to choose reliability, secondary would be fastest connection near you.
+Although the sound of achieving a degree in any of the STEM disciplines may sound appealing.  It does have a negative connotation surrounding the challenges you must overcome.  Soo much so that our project lead, Pritika was scolded for her name and background and told that she would never make it in STEM.  This discouraged her until her 6th grade science teacher guided her in a positive way towards thinking of STEM.  She has since learned python and is motivated to share her great experiences and challenges to others.  You can call our chatbot through your phone and explore the many pathways available to you.  It follows a points chart based on which answers you pick and will advise you on your way, all while entertaining you with scientific facts.
 
 ## Results:
 
-Although we did not win any awards, we definitely learned valuable lessons to apply next time (I was fortunate enough to win my next hackathon at HackAttack QC).  Primarily we were new to android studio, online databases and how they should work, time constraints were as real as ever (24 hour hackathon) and coming up with ideas that would work.
+While my teammates were working on the backend in python, I attended workshops to figure out how could we best sell our app.
+While talking about our presentation with my teammates, I decided to also attended IBM watson conference later in the night.  Up to this point I was not enthralled with what I have seen, however the Watson chatbot api sold me.  Then many many hours later and no sleep in sight, I managed to cobble up a working chatbot with Watson (Ran into many server side issues such as not being able to connect to USEAST).  It was not fully fledged and ready for market, but it did work, and fortunately it wowed the judges.
 
 <p align="center">
     <img src="twitter.png" alt="Image" width="500" height="800" />
